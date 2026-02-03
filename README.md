@@ -36,7 +36,7 @@ A local AI chatbot powered by [Ollama](https://ollama.com) that can tell you abo
 
 3. **Clone this repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/my-machine-bot.git
+   git clone https://github.com/Focus-Key-Exe/my-machine-bot.git
    cd my-machine-bot
    ```
 
